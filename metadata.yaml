@@ -1,11 +1,16 @@
 _repo: Imported-Americans-The-Story-of-the-Experiences-of-a-Disguised-American-and-His-Wife-Studying__57517
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57517-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandenburg, Broughton
     gutenberg_agent_id: '49438'
     url: http://www.gutenberg.org/2009/agents/49438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57517#Imported-Americans-The-Story-of-the-Experiences-of-a-Disguised-American-and-His-Wife-Studying_
 gutenberg_issued: '2018-07-16'
 gutenberg_type: Text
 identifiers:
